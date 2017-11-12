@@ -1,1 +1,1 @@
-# mountebank.ui
+# mb.ui
